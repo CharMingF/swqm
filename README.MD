@@ -9,13 +9,12 @@
 
 ![封面](/assets/封面.png)
 
+《SURFACE WATER-QUALITY MODELING》Steven C. Chapra (Medford, MA) is Professor of Civil and Environmental Engineering, Tufts Universi
 
 
 
- 
-  
-   
-     《SURFACE WATER-QUALITY MODELING》Steven C. Chapra (Medford, MA) is Professor of Civil and Environmental Engineering, Tufts Universi附上亚马逊的简介：
+
+附上亚马逊的简介：
 > Since the 1920’s, scientists and engineers around the globe have been using mathematical models to simulate the transport and fate of pollutants in natural waters. Today, and in the foreseeable future, more of these applications are being generated in an effort to develop economical solutions to water-quality problems.
 > The primary audience for this book is first-year graduate students, including both MA and Ph.D. students. The book, however, could be used as a basis for a senior undergraduate course. The text is divided into seven major parts. The first two cover Modeling Fundamentals, (including material on mathematics, numerical methods, kinetics, diffusion, etc). The remaining parts deal with major water-quality modeling problems such as dissolved oxygen, eutrophication, and toxics. The text is written in lecture format, ideal for case study and teaching purposes. The book stresses theory and application.
 > 
