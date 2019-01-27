@@ -7,3 +7,4 @@
 * [Lecture1 基础知识]
   * [1.1 水质模型起源](Part1\Lecture1\swqm-1.1.md)
   * [1.2 基础定量](Part1\Lecture1\swqm-1.2.md)
+  * [1.3 数学模型](Part1\Lecture1\swqm-1.3.md)
